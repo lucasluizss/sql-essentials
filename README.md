@@ -45,12 +45,19 @@ Sql samples and useful notations.
   - VSCode extension to explore and query SQLite databases.
 - [DBeaver Community](https://dbeaver.io/)
   - Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.
+- [DB Fiddle UK](https://dbfiddle.uk/)
 
 ## SQL Command Types
 
 <div align="center">
 	<img alt="sql-command-types" title="#sql-command-types" src=".github/images/sql-command-types.jpeg" width="500px" />
 </div>
+
+## Topics
+- [Constructing the source data set](./docs/1.md)
+- [Filtering with WHERE](./docs/2.md)
+- [Grouping and group filtering](./docs/3.md)
+- [Ordering and paging](./docs/4.md)
 
 ## :memo: License
 
